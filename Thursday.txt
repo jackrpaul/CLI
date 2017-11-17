@@ -2,5 +2,9 @@ Today is Thursday. Moose.
 "love and honor baby" - me
 I'm going to Belize in a few months.
 I still have to type my AP Latin essay. Whoops.
+<<<<<<< HEAD
 How about those airplane peanuts?
 What happens if I add in a sixth line?
+=======
+I woke up at 5:40 AM but it was worth it.
+>>>>>>> Thanksgiving
